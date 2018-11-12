@@ -1,1 +1,1 @@
-# PIMA diabetes 
+# PIMA diabetes dataset
