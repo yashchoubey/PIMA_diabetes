@@ -1,1 +1,1 @@
-# PIMA diabetes dataset visualization and classification
+# PIMA diabetes dataset visualisation and classification
